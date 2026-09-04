@@ -5,3 +5,4 @@ Pillow
 PyPDF2
 numpy
 edge-tts
+matplotlib
